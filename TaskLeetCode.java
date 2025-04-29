@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
@@ -7,5 +9,8 @@ class Solution {
             }
         }
         return false;
+    }
+    public static void hello () {
+        System.out.println("Hello");
     }
 }
