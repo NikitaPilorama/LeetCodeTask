@@ -3,4 +3,3 @@ class TaskLeetCode {
         System.out.print("Hello, World!")
     }
 }
-
