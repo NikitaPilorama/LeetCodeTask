@@ -10,4 +10,7 @@ class Solution {
         }
         return false;
     }
+    public static void hello () {
+        System.out.println("Hello");
+    }
 }
